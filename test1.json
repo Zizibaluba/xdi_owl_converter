@@ -1,0 +1,1 @@
+{"=bwu[$msg]!2$do/$set":[{"=bwu/+friend":["=animesh"],"=bwu<+email>&/&":"brian.wu@neustar.biz","=bwu<+name>&/&":"Brian Wu"}],"@UV[$msg]!1$do/$set":[{"@UV/+member":["=bwu"],"@UV[<+movies>]<#0>&/&":"Godfather","@UV[<+movies>]<#1>&/&":"Robocop"}],"@UV[$msg]!1/$is()":["([=]!1111)"]}
